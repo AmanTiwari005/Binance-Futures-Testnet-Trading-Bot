@@ -15,11 +15,6 @@ This bot allows you to place market, limit, and stop-limit orders programmatical
 - Logs all API requests and responses (logging can be added/enhanced easily)  
 - Easily extensible for advanced order types and integrations
 
----
-
-## Screenshots
-
-*(Add screenshots of the app UI here to showcase the interface)*
 
 ---
 
@@ -31,7 +26,4 @@ This bot allows you to place market, limit, and stop-limit orders programmatical
 
 ---
 
-## Installation
-
-1. Clone the repository or download the script:
 
